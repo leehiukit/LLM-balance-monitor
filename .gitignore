@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+*.app
+BalanceBar/BalanceBar
+
+# Build artifacts
+*.o
+*.swiftmodule
+*.swiftdoc
+
+# IDE
+.idea/
+.vscode/
+*.xcworkspace
+*.xcuserdata
